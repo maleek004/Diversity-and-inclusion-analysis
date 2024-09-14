@@ -29,6 +29,13 @@ This project involved analyzing HR data for a virtual telecoms company as part o
 - **Gender Difference in Promotion:** A significantly higher percentage of male employees (65%) received promotions during the FY21 period. Furthermore, the average rating of these male employees who received promotions (1.97) was higher than that of their female counterparts (1.78).
 - **Gender Split Across All Job Levels After Last Hiring Round:** Despite a slightly higher percentage of female hires in the previous year, there are roughly equal numbers of male and female employees at the Junior Officer and Senior Officer job levels. There is a considerable gender imbalance in favor of males at all higher job levels, with more men hired directly into these levels than women in the previous year.
 - **Gender Split Across Departments:** Our analysis indicates that male employees dominate four of the six departments in the company (Sales & Marketing, Internal Services, Strategy, and Finance). Meanwhile, female employees dominate in only one department (HR) and have an equal representation with males in the Operations department.
+![PWC D I analysis page1](https://github.com/user-attachments/assets/d6d5a0d5-d54d-495e-be25-4adba66f3d52)
+
+![PWC D I analysis page2](https://github.com/user-attachments/assets/a0f1f2a9-70a3-4741-b04f-dd706b6b0537)
+
+![PWC customer details page](https://github.com/user-attachments/assets/774e8497-8f0d-4da6-80ad-94ef6e38bb24)
+
+![PWS D I analysis report text box](https://github.com/user-attachments/assets/c1f93560-b643-4174-88b2-d066874fa14f)
 
 ## Conclusion
 This project provided valuable insights into the HR dynamics of the virtual telecoms company, emphasizing the importance of gender balance and diversity. By defining relevant KPIs and visualizing key metrics, the report also offers a clear roadmap for improving diversity and inclusion efforts.
