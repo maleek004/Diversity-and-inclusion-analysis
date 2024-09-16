@@ -1,4 +1,4 @@
-# HR Data Analysis for Virtual Telecoms Company
+# Diversity and Inclusion Analysis for Virtual Telecoms Company
 
 ## Project Overview
 This project involved analyzing HR data for a virtual telecoms company as part of PWC’s virtual PowerBI internship on Forage. The goal was to create a comprehensive report focusing on gender-related Key Performance Indicators (KPIs) to assess and improve diversity and inclusion within the company.
